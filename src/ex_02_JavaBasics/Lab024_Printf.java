@@ -1,6 +1,6 @@
 package ex_02_JavaBasics;
 
-public class Lab024_Println_VS_print
+public class Lab024_Printf
 {
     public static void main(String[] args) {
         int a=12;
