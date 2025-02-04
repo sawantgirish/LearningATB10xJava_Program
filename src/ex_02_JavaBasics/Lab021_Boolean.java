@@ -1,6 +1,6 @@
 package ex_02_JavaBasics;
 
-public class lab021_Boolean
+public class Lab021_Boolean
 {
     public static void main(String[] args) {
        // boolean value can be created with a keyword called -> Boolean
