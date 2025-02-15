@@ -14,7 +14,7 @@ public class Lab026_Local_Variable
         double v= 3424535.23;
         boolean bb= true;
         char h='a';
-
+        System.out.println();
         System.out.println("LOCAL VARIABLE IS ONLY ACCESSABLE INSIDE THE method  IT IS DECLARED");
     }
 }

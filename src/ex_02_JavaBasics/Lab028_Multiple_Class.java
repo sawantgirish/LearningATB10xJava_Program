@@ -6,12 +6,15 @@ public class Lab028_Multiple_Class{
     }
 }
 
-class A{}
-class B{}
-
-class V{}
-// we can  have multiple classes in a
-
-
-
+class A {
 }
+
+class B {
+}
+
+class V {
+}
+// we can  have multiple classes
+
+
+
