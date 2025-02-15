@@ -1,6 +1,6 @@
 package ex_04_Operators;
 
-public class lab037_Assignment_Operators
+public class Lab037_Assignment_Operators
 {
     public static void main(String[] args) {
 
